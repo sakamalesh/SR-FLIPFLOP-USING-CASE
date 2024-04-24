@@ -37,15 +37,18 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 /* write all the steps invloved */
 
 **PROGRAM**
+
 ![Exp5 srfp code](https://github.com/rakshithaprakashkumar11/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150994181/5246a530-a483-499a-bfac-356b0e9fd9d8)
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![Exp5 srfp RTL diagram](https://github.com/rakshithaprakashkumar11/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150994181/99c5458c-360b-4ab0-bbd7-98180a05f55f)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![Exp3 sr wave](https://github.com/rakshithaprakashkumar11/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150994181/aa235ac2-de9f-458b-8f61-92cef7955dfc)
 
 **RESULTS**
